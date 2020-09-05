@@ -1,0 +1,43 @@
+   
+  h1{
+    color:#FFF123;
+   font-weight: lighter;
+}
+
+a{
+    color:#FCD;
+    transition: color .3s linear 1s;
+}
+
+.Header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Origamis{
+    background-color: cornsilk;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-shrink: 4;
+    color: crimson;
+    padding: 30px;
+    margin: 5px;
+}
+
+.Menu{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: flex-end;
+    font: cursive;
+    font-family: cursive ;
+    font-weight: 15px;
+}
+
+p {
+    text-align: left;
+  font-size: 24px;
+  font-family: cursive; 
+}
+
